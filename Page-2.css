@@ -1,0 +1,234 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 754px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 60px auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 480px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 288px;
+  height: 288px;
+  background-image: url("https://cdn.discordapp.com/avatars/714810380072779807/7aa5c843444852fbfa9d5e4b2aa6daf0.png?size=512");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 480px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 193px auto 0 214px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: -1px 226px 0 auto;
+  padding: 8px 33px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 0.9375rem;
+  border-style: none;
+  font-weight: 700;
+  margin: -40px auto 0 226px;
+  padding: 8px 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 670px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 396px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 396px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 158px;
+    margin-left: 152px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 176px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 152px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 539px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 303px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 216px;
+    height: 216px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 276px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 79px;
+    margin-left: 74px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 108px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 84px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 892px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 593px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 251px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -156px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 223px;
+    margin-right: 132px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 96px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 700px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 373px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 214px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -61px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 121px;
+    margin-right: 48px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 35px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 30px auto 0;
+}
+
+.u-section-2 .u-group-1 {
+  width: 236px;
+  min-height: 282px;
+  margin: 155px auto 60px 452px;
+}
+
+.u-section-2 .u-image-1 {
+  height: auto;
+  animation-duration: 1000ms;
+  background-image: url("https://cdn.discordapp.com/avatars/851681108374585344/7a683da3b53aed71987d337fe9b75381.png?size=512");
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-weight: 700;
+  background-image: none;
+  border-style: none;
+  animation-duration: 1000ms;
+  margin: 0 auto 0 6px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-group-1 {
+    margin-left: 304px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-group-1 {
+    margin-left: 104px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 100vh;
+}
